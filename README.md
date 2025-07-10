@@ -1,1 +1,2 @@
-Recipe Page project on freeCodeCamp.com
+Recipe Page project on freeCodeCamp.com for the Certified Full Stack Developer Curriculum
+This project can be viewed at https://hmdoubles.github.io/RecipePage/
